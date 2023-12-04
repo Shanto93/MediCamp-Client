@@ -1,0 +1,7 @@
+.feedback{
+    background-image: url('https://i.ibb.co/cQr9JfD/vaccination.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    backface-visibility: visible;
+    background-size: cover;
+}
